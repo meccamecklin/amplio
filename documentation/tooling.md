@@ -13,4 +13,4 @@ https://vaadin.com/wiki/-/wiki/Main/Building%20Vaadin%20Applications%20on%20top%
 https://code.visualstudio.com/
 
 #UI
-https://angularjs.org/
+https://angular.io/
